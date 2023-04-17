@@ -29,13 +29,13 @@
   group: 1
   
 - name: 王佳
-  photo: fxz.jpg
+  photo: bio-photo.jpg
   info: 博士研究生
   url: feixiang
   group: 1
 
 - name: 王硕男
-  photo: zhihua.png
+  photo: bio-photo.jpg
   info: 博士研究生
   url: https://zhihualiued.github.io/
   group: 1
@@ -53,7 +53,7 @@
   group: 1
   
 - name: 孙琦
-  photo: 666.jpg
+  photo: bio-photo.jpg
   info: 博士研究生
   url: tengyue
   group: 1
