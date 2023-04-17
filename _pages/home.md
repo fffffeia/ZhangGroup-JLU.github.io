@@ -12,8 +12,7 @@ permalink: /
 ![]({{ site.url }}{{ site.baseurl }}/images/lab_mf1.jpeg){: style="width: 100%; float: left;margin-right: 20px; border: 10px"}
 
 
-**BIPL(Biomedical Image Processing Lab)** mainly works on the development of novel algorithms and application tools for automated processing of medical and biological signals/images. Major research contribution is made towards two complementary aspects: Fundamental understanding and modelling of images and signals, and Application-driven development in collaboration with professionals in medicine, biology, psychology, engineering, physics, earth observation and sociology. 
-With digital biomedical signals/images being widely stored and shared in networks, the research group also looks to bolster the analysis of biomedical data and cyber-security of signal processing systems.
+**岩体结构与地质灾害实验室** （这部分对实验室进行综合介绍，需要一些文字内容表述我们主要是做什么新颖的研究，通过我们的研究对于领域发展和社会有哪些贡献）
 
 主要研究方向包括:
 
@@ -30,10 +29,10 @@ The Sanders Lab is primarily a bioinformatic group that uses a wide range of gen
 We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard.
 -->
 ### 加入岩体结构与地质灾害实验室
-If you are interested in joining please go to the [recruitment](recruitment) page.
+如果您对我们的研究感兴趣并希望加入团队，请参考[招募令](recruitment) 页面.
 
-### Funding
-We are grateful for funding from UK EPSRC, ESRC, AHRC, MRC, EU ICT, Royal Society, Innovate UK, Leverhulme Trust, Invest NI, Puffin Trust, Alzheimer Research (UK) and industry.
+### 课题经费
+团队承担多项国家自然科学基金项目（可以扩展开说明）
 
 
 <figure class="third">
