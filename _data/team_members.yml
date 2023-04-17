@@ -167,20 +167,76 @@
   year: 12/2019-12/2020
   current: 
   
-- name: Prof. Xin Wang
+- name: 陈晓雪
   photo: bio-photo.jpg
-  info: Academic visitor (HHU)
+  info: 硕士毕业生
   url: 
   group: 8
-  year: 9/2019-9/2020
+  year: 
   current: 
   
-- name: Prof. Yong Hu,
+  - name: 兰志广
   photo: bio-photo.jpg
-  info: Academic visitor (HKU).
+  info: 硕士毕业生
   url: 
   group: 8
-  year: 5/2019
+  year: 
+  current: 
+  
+  - name: 刘天玚
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 
+  current: 
+  
+  - name: 陈怀玉
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 
+  current: 
+  
+  - name: 杨光
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 
+  current: 
+  
+  - name: 许扬
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 
+  current: 
+  
+  - name: 成武
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 
+  current: 
+  
+  - name: 赵云鹏
+  photo: bio-photo.jpg
+  info: 硕士毕业生
+  url: 
+  group: 8
+  year: 
+  current: 
+  
+- name: 马文良
+  photo: bio-photo.jpg
+  info: 博士毕业生
+  url: 
+  group: 8
+  year: 09/2019-12/2022
   current: 
   
 - name: 陈东辉
