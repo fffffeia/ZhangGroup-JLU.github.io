@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Team Members
+# 科研成员
 (Please click the name below for the lab memeber's profile)
 
 
@@ -227,7 +227,7 @@ permalink: /team/
 ---
 
 ## Administrative Support
-Please contact our lab manager, <a href="mailto:lt228@leicester.ac.uk">Lei Tong</a>.
+Please contact our lab manager, <a href="mailto:litengyue@jlu.edu.cn">Dr. Tengyue Li</a>.
 
 
 
