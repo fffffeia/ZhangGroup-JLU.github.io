@@ -29,7 +29,7 @@ The Sanders Lab is primarily a bioinformatic group that uses a wide range of gen
 ### Collaborators
 We work with closely with numerous collaborators, including the [State Lab](https://www.mstatelab.com/) and [Bender Lab](https://benderlab.ucsf.edu/lab-members) at UCSF, the [Devlin Lab](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/bernie-j-devlin-phd) at UPMC, the [Roeder Lab](http://www.stat.cmu.edu/~roeder/) at Carnegie Mellon, the [Sestan Lab](http://medicine.yale.edu/lab/sestan/index.aspx), and the [Talkowski lab](http://talkowski.mgh.harvard.edu/) at Harvard.
 -->
-### Joining BIPL
+### 加入岩体结构与地质灾害实验室
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
 ### Funding
