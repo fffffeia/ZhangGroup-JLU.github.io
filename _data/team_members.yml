@@ -5,7 +5,7 @@
   group: 0
   
 - name: 李腾跃
-  photo: lc.jpg
+  photo: 666.jpg
   info: 博士后研究员
   url: longchen
   group: 0
@@ -82,6 +82,12 @@
   url: 
   group: 1
   
+- name: 许广璐
+  photo: bio-photo.jpg
+  info: Research Associate
+  url: 
+  group: 1
+  
 - name: 董文川
   photo: bio-photo.jpg
   info: 硕士研究生
@@ -116,31 +122,25 @@
   photo: bio-photo.jpg
   info: co-supervised with Prof. Eugene Zhang
   url: jialin
-  group: 2
+  group: 9
       
 - name: 赵梓涵
   photo: bio-photo.jpg
   info: Research Assistant
   url: 
-  group: 3
-
-- name: 许广璐
-  photo: bio-photo.jpg
-  info: Research Associate
-  url: 
-  group: 3
+  group: 9
 
 - name: 王振飞
   photo: bio-photo.jpg
   info: Academic visitor (Shandong Normal University)
   url: 
-  group: 4
+  group: 9
   
 - name: 柴承星
   photo: bio-photo.jpg
   info: Academic visitor (Three Gorges University of China)
   url: 
-  group: 4
+  group: 9
 
 - name: Dr. Weiye Xu
   photo: bio-photo.jpg
