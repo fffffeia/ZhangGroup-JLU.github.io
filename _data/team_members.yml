@@ -1,11 +1,11 @@
 - name: 张文
-  photo: huiyuzhou.jpeg
+  photo: WenZhang.jpeg
   info: 教授
   url: https://const.jlu.edu.cn/info/1113/2914.htm
   group: 0
   
 - name: 李腾跃
-  photo: 666.jpg
+  photo: TengyueLi.jpeg
   info: 博士后研究员
   url: longchen
   group: 0
@@ -41,7 +41,7 @@
   group: 1
 
 - name: 尹韩
-  photo: leitong.jpg
+  photo: HanYin.jpeg
   info: 博士研究生
   url: https://leitong02.github.io/
   group: 1
