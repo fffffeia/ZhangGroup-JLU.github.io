@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-# 欢迎来到吉林大学（朝阳校区）\岩体结构与地质灾害实验室
+# 欢迎来到吉林大学（朝阳校区）
+# 岩体结构与地质灾害实验室
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lab_mf1.jpeg){: style="width: 100%; float: left;margin-right: 20px; border: 10px"}
 
