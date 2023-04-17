@@ -1,7 +1,7 @@
 ---
 title: "BIPL - News"
 layout: textlay
-excerpt: "BIPL at UoL."
+excerpt: "岩体结构与地质灾害实验室 at 吉林大学."
 sitemap: false
 permalink: /allnews.html
 ---
