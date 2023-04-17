@@ -15,12 +15,12 @@ permalink: /
 **BIPL(Biomedical Image Processing Lab)** mainly works on the development of novel algorithms and application tools for automated processing of medical and biological signals/images. Major research contribution is made towards two complementary aspects: Fundamental understanding and modelling of images and signals, and Application-driven development in collaboration with professionals in medicine, biology, psychology, engineering, physics, earth observation and sociology. 
 With digital biomedical signals/images being widely stored and shared in networks, the research group also looks to bolster the analysis of biomedical data and cyber-security of signal processing systems.
 
-There are four main areas of research:
+主要研究方向包括:
 
-1.	**Medical signal analysis**
-2.	**Animal modelling**
-3.	**Remote sensing**
-4.	**Cyber-security**
+1.	**地质灾害评价与防护**
+2.	**无人机视觉高精度三维地质建模**
+3.	**多源光学视觉岩体结构精细描述**
+4.	**岩体力学分析与数值模拟**
 
 <!--
 ### Technologies and methods
