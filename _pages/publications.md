@@ -48,9 +48,8 @@ permalink: /publications/
 ---
 
 <div>
-## 全部发表的论文
 
-完整发表论文检索，请前往 <a class="regtext" href="https://scholar.google.com/citations?user=bRWUiGIAAAAJ&hl=en">Google Scholar</a> 或 <a class="regtext" href="https://www.researchgate.net/profile/Huiyu-Zhou-4">ResearchGate</a>.
+全部发表的论文检索，请前往 <a class="regtext" href="https://scholar.google.com/citations?user=bRWUiGIAAAAJ&hl=en">Google Scholar</a> 或 <a class="regtext" href="https://www.researchgate.net/profile/Huiyu-Zhou-4">ResearchGate</a>.
 <br><br><br>
 
 </div>
