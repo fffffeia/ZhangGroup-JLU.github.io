@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to BIPL at UoL
+# 欢迎来到吉林大学（朝阳校区）岩体结构与地质灾害实验室
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab_mf.jpeg){: style="width: 100%; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab_mf1.jpeg){: style="width: 100%; float: left;margin-right: 20px; border: 10px"}
 
 
 **BIPL(Biomedical Image Processing Lab)** mainly works on the development of novel algorithms and application tools for automated processing of medical and biological signals/images. Major research contribution is made towards two complementary aspects: Fundamental understanding and modelling of images and signals, and Application-driven development in collaboration with professionals in medicine, biology, psychology, engineering, physics, earth observation and sociology. 
