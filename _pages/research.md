@@ -14,13 +14,17 @@ permalink: /research/
 
 ## 1.国家自然科学基金优秀青年科学基金，42022053，工程地质与地质灾害，2021.01-2023.12，120万元，在研，主持
 <div style="text-align: justify">
+## 2.国家自然科学基金面上项目，41877220，快速隆升典型河段岸坡多尺度等 效结构模型与不确定灾变演化，2019.01-2022.12，61万元，在研，主持
+
+## 3.国家重点研发计划子课题，2019YFA0705504，油页岩原位开采地质效应评价方法，2019.12-2024.11，127.5万元，在研，子课题主持
+
+## 4.国家重点研发计划子课题，2017YFC1501004，强震区地质灾害演化机制研究，2018.1-2021.12，73万元，在研，子课题主持
+
+## 5.国家自然科学基金青年科学基金，41402242，基于结构表征单元体的裂隙 岩体结构等效地质力学模型研究，2015.01-2017.12，25万元，已结题，主持
+
+## 6.国家自然科学基金重点基金子课题，41330636，快速隆升典型河段复杂结构岩体 灾害与水库工程活动互馈机理研究，2014.01-2018.12，20万元，已结题，子课题主持
 
 
-## Automated analysis of housing construction progress through remote sensing
-
-<div style="text-align: justify">
-This project aims at developing and testing image processing tools specifically designed to map the various development stage of new housing sites. Leveraging the short revisit time allowed by existing constellation of satellites like e.g. Planet, this will potentially allow the accurate identification of construction timeline. The specific questions the project will investigate are: Can we detect different stages of construction from high resolution satellite imagery? What are the stages of construction that we can detect and what levels of confidence can we attach? Would the solution be cost effective? As this is primarily driven by the cost of commercial satellite imagery, which is essentially determined by ground resolution, this actually means: what is the minimum ground resolution allowing the detection of construction stages? Is it necessary/desirable to know in advance where construction is expected to take place? How does this affect the prediction confidence? Could this be used to detect potential unauthorised construction activity?
-</div>
 
 
 ---
