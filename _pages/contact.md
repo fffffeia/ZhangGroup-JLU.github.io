@@ -10,7 +10,7 @@ permalink: /contact/
 
 ## Lab Location
 
-BIPL Lab is in the main campus of University of Leicester ([Google Map](https://map.baidu.com/poi/吉林大学(朝阳校区)-水工楼/@13949784.315,5418361.11,19z?uid=020d30e30175766aa3acc4db&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl)):
+BIPL Lab is in the main campus of University of Leicester ([百度地图](https://map.baidu.com/poi/吉林大学(朝阳校区)-水工楼/@13949784.315,5418361.11,19z?uid=020d30e30175766aa3acc4db&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl)):
 
 Lab G3, Floor 0,\
 Informatics Building\
