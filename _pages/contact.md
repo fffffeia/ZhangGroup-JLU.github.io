@@ -20,7 +20,7 @@ University Road\
 Leicester\
 LE1 7RH
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/image.jpeg" style="width: 600px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/image1.jpeg" style="width: 600px">
 
 <!--
 ### Parking
