@@ -45,7 +45,7 @@ permalink: /team/
 
 ---
 
-## PhD Students (1st Supervisor)
+## 博士研究生
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ permalink: /team/
 
 ---
 
-## PhD Students (2nd Supervisor)
+## 硕士研究生
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
