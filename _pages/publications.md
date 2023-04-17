@@ -14,7 +14,7 @@ permalink: /publications/
 主要论文
 迄今，共发表60余篇SCI与EI检索论文。其中，以第一或通讯作者发表SCI检索论文24篇。具体如下：
 
-[1] Donghui Chen, Huie Chen, Wen Zhang*, Junqing Lou, Bo Shan. An Analytical Solution of the Equivalent Elastic Modulus Considering the Confining Stress and Its Variables Sensitivity Analysis for Fractured Rock Masses. Journal of Rock Mechanics and Geotechnical Engineering, 2021(accepted).
+[1] Donghui Chen, Huie Chen, Wen Zhang*, Junqing Lou, Bo Shan. An Analytical Solution of the Equivalent Elastic Modulus Considering the Confining Stress and Its Variables Sensitivity Analysis for Fractured Rock Masses. Journal of Rock Mechanics and Geotechnical Engineering, 2021(accepted).\
 [2] Chen Cao, Wen Zhang*, Jianping Chen, Shengyuan Song, Jiewei Zhan. Quantitative estimation of debris flow source materials by integrating multi-source data: A case study. Engineering Geology, 2021, 291 : 106222.
 [3] Wenliang Ma, Huie Chen, Wen Zhang*, Chun Tan, Zhenbang Nie, Jia Wang, Qi Sun. Study on Representative Volume Elements Considering Inhomogeneity and Anisotropy of Rock Masses Characterised by Non-persistent Fractures. Rock Mechanics and Rock Engineering, 2021, 54(9): 4617-4637.
 [4] Wen Zhang#, Jia Wang, Junqing Lou, Bo Shan, Jinfeng Liu, Fengyan Wang, Shengyuan Song. Simplified 3D modelling method and its uncertainty analysis for adit fractures collected within short sampling windows. Quarterly Journal of Engineering Geology and Hydrogeology, DOI: 10.1144/qjegh2020-096.
