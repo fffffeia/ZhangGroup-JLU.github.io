@@ -1,7 +1,7 @@
 ---
-title: "BIPL - Home"
+title: "岩体结构与地质灾害实验室 - 团队首页"
 layout: homelay
-excerpt: "BIPL at UoL."
+excerpt: "岩体结构与地质灾害实验室 at 吉林大学（朝阳校区）."
 sitemap: false
 permalink: /
 ---
