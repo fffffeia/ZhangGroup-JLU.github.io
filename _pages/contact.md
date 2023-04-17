@@ -6,19 +6,12 @@ sitemap: false
 permalink: /contact/
 ---
 
-# Contact
+# 联系我们
 
-## Lab Location
+## 实验室位置
 
-BIPL Lab is in the main campus of University of Leicester ([百度地图](https://map.baidu.com/poi/吉林大学(朝阳校区)-水工楼/@13949784.315,5418361.11,19z?uid=020d30e30175766aa3acc4db&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl)):
+岩体结构与地质灾害实验室位于吉林省长春市朝阳区西民主大街938号吉林大学（朝阳校区）建设工程学院水工楼([百度地图](https://map.baidu.com/poi/吉林大学(朝阳校区)-水工楼/@13949784.315,5418361.11,19z?uid=020d30e30175766aa3acc4db&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl)):
 
-Lab G3, Floor 0,\
-Informatics Building\
-School of Computing and Mathematical Sciences\
-University of Leicester\
-University Road\
-Leicester\
-LE1 7RH
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/image1.jpeg" style="width: 600px">
 
