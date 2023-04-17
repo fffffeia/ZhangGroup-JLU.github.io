@@ -1,7 +1,7 @@
 ---
-title: "BIPL - Publications"
+title: "ZhangGroup - 主要论文"
 layout: gridlay
-excerpt: "BIPL -- Publications."
+excerpt: "ZhangGroup - 主要论文."
 sitemap: false
 permalink: /publications/
 ---
