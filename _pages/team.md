@@ -7,7 +7,7 @@ permalink: /team/
 ---
 
 # 科研成员
-(Please click the name below for the lab memeber's profile)
+(点击成员姓名可查看其详细信息)
 
 
 ---
@@ -226,8 +226,8 @@ permalink: /team/
 
 ---
 
-## Administrative Support
-Please contact our lab manager, <a href="mailto:litengyue@jlu.edu.cn">Dr. Tengyue Li</a>.
+## 技术支持
+请联系我们的实验室网站管理员， <a href="mailto:litengyue@jlu.edu.cn">Dr. Tengyue Li</a>.
 
 
 
