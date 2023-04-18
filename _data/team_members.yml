@@ -23,19 +23,19 @@
   group: 1
 
 - name: 陈俊淇
-  photo: bio-photo.jpg
+  photo: JunqiChen.jpeg
   info: 博士研究生
   url: hongdu 
   group: 1
   
 - name: 王佳
-  photo: bio-photo.jpg
+  photo: JiaWang.jpeg
   info: 博士研究生
   url: feixiang
   group: 1
 
 - name: 王硕男
-  photo: bio-photo.jpg
+  photo: ShuonanWang.jpeg
   info: 博士研究生
   url: https://zhihualiued.github.io/
   group: 1
@@ -47,7 +47,7 @@
   group: 1
   
 - name: 李万堃
-  photo: bio-photo.jpg
+  photo: WankunLi.jpeg
   info: 博士研究生
   url: xinyu 
   group: 1
@@ -59,19 +59,19 @@
   group: 1
   
 - name: 赵潇涵
-  photo: bio-photo.jpg
+  photo: XiaohanZhao.jpeg
   info: 博士研究生
   url: 
   group: 1
   
 - name: 伟明
-  photo: bio-photo.jpg
+  photo: MingWei.jpg
   info: 博士研究生
   url: bencham
   group: 1
   
 - name: 韩佳利
-  photo: bio-photo.jpg
+  photo: JialiHan.jpg
   info: 博士研究生
   url: shiyi
   group: 1
@@ -95,13 +95,13 @@
   group: 9
   
 - name: 蓝升
-  photo: bio-photo.jpg
+  photo: ShengLan.jpeg
   info: 硕士研究生
   url: 
   group: 9
   
 - name: 潘晓娟
-  photo: bio-photo.jpg
+  photo: XiaojunPan.jpeg
   info: 硕士研究生
   url: 
   group: 9
@@ -113,7 +113,7 @@
   group: 9
   
 - name: 张涵
-  photo: bio-photo.jpg
+  photo: HanZhang.jpeg
   info: 硕士研究生
   url: 
   group: 9
