@@ -52,6 +52,12 @@
   url: xinyu 
   group: 1
   
+  - name: 韩佳利
+  photo: JialiHan.jpeg
+  info: 博士研究生
+  url: shiyi
+  group: 1
+  
 - name: 孙琦
   photo: bio-photo.jpg
   info: 博士研究生
@@ -68,12 +74,6 @@
   photo: MingWei.jpeg
   info: 博士研究生
   url: bencham
-  group: 1
-  
-- name: 韩佳利
-  photo: JialiHan.jpeg
-  info: 博士研究生
-  url: shiyi
   group: 1
   
 - name: 刘庆
