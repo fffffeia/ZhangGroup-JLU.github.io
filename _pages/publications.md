@@ -1,7 +1,7 @@
 ---
-title: "ZhangGroup - 主要论文"
+title: "岩体结构与地质灾害实验室 - 发表论文"
 layout: gridlay
-excerpt: "ZhangGroup - 主要论文."
+excerpt: "岩体结构与地质灾害实验室 at 吉林大学（朝阳校区）."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,6 @@ permalink: /publications/
 
 ---
 
-主要论文
 迄今，共发表60余篇SCI与EI检索论文。其中，以第一或通讯作者发表SCI检索论文24篇。具体如下：
 
 [1] Donghui Chen, Huie Chen, Wen Zhang*, Junqing Lou, Bo Shan. An Analytical Solution of the Equivalent Elastic Modulus Considering the Confining Stress and Its Variables Sensitivity Analysis for Fractured Rock Masses. Journal of Rock Mechanics and Geotechnical Engineering, 2021(accepted).\
@@ -49,7 +48,7 @@ permalink: /publications/
 
 <div>
 
-检索全部发表的论文，请前往 <a class="regtext" href="https://scholar.google.com/citations?user=bRWUiGIAAAAJ&hl=en">Google Scholar</a> 或 <a class="regtext" href="https://www.researchgate.net/profile/Huiyu-Zhou-4">ResearchGate</a>.
+检索论文全文，请前往 <a class="regtext" href="https://scholar.google.com/citations?user=bRWUiGIAAAAJ&hl=en">Google Scholar</a> 或 <a class="regtext" href="https://www.researchgate.net/profile/Huiyu-Zhou-4">ResearchGate</a>.
 <br><br><br>
 
 </div>
