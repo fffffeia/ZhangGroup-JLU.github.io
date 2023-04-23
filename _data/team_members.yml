@@ -13,127 +13,127 @@
 - name: 韩博
   photo: BoHan.jpg
   info: 助理工程师
-  url: fangchen
+  url: hanbo
   group: 0
 
 - name: 聂振邦
   photo: bio-photo.jpg
   info: 博士研究生
-  url: hongdu 
+  url: niezhenbang 
   group: 1
 
 - name: 陈俊淇
   photo: JunqiChen.jpeg
   info: 博士研究生
-  url: hongdu 
+  url: chenjunqi 
   group: 1
   
 - name: 王佳
   photo: JiaWang.jpeg
   info: 博士研究生
-  url: feixiang
+  url: wangjia
   group: 1
 
 - name: 王硕男
   photo: ShuonanWang.jpeg
   info: 博士研究生
-  url: https://zhihualiued.github.io/
+  url: wangshuonan
   group: 1
 
 - name: 尹韩
   photo: HanYin1.jpeg
   info: 博士研究生
-  url: https://leitong02.github.io/
+  url: yinhan
   group: 1
   
 - name: 李万堃
   photo: WankunLi.jpeg
   info: 博士研究生
-  url: xinyu 
+  url: liwankun 
   group: 1
   
   - name: 韩佳利
   photo: JialiHan1.jpg
   info: 博士研究生
-  url: shiyi
+  url: hanjiali
   group: 1
   
 - name: 孙琦
   photo: bio-photo.jpg
   info: 博士研究生
-  url: tengyue
+  url: sunqi
   group: 1
   
 - name: 赵潇涵
   photo: XiaohanZhao.jpeg
   info: 博士研究生
-  url: 
+  url: zhaoxiaohan
   group: 1
   
 - name: 伟明
   photo: MingWei.jpeg
   info: 博士研究生
-  url: bencham
+  url: weiming
   group: 1
   
 - name: 刘庆
   photo: bio-photo.jpg
   info: 博士研究生
-  url: 
+  url: liuqing
   group: 1
   
 - name: 董文川
   photo: bio-photo.jpg
   info: 硕士研究生
-  url: zhenyang
+  url: dongwenchuan
   group: 9
   
 - name: 蓝升
   photo: ShengLan.jpeg
   info: 硕士研究生
-  url: 
+  url: lansheng
   group: 9
   
 - name: 潘晓娟
   photo: XiaojunPan.jpeg
   info: 硕士研究生
-  url: 
+  url: panxiaojuan
   group: 9
   
 - name: 王尧尧
   photo: bio-photo.jpeg
   info: 硕士研究生
-  url: 
+  url: wangyaoyao
   group: 9
   
 - name: 张涵
   photo: HanZhang.jpeg
   info: 硕士研究生
-  url: 
+  url: zhanghan
   group: 9
  
 - name: 吴丹阳
   photo: bio-photo.jpeg
   info: 硕士研究生
-  url: jialin
+  url: wudanyang
   group: 9
       
 - name: 赵梓涵
   photo: bio-photo.jpeg
   info: 硕士研究生
-  url: 
+  url: zhaozihan
   group: 9
 
 - name: 王振飞
   photo: bio-photo.jpeg
   info: 硕士研究生
-  url: 
+  url: wangzhenfei
   group: 9
   
 - name: 柴承星
   photo: bio-photo.jpg
   info: 硕士研究生
-  url: 
+  url: chaichengxing
   group: 9
   
 - name: 陈晓雪
