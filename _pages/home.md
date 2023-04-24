@@ -31,7 +31,7 @@ We work with closely with numerous collaborators, including the [State Lab](http
 如果您对我们的研究感兴趣并希望加入团队，请参考[招募令](recruitment) 页面.
 
 ### 课题经费
-团队承担多项国家自然科学基金项目
+团队承担多项国家自然科学基金项目，累计科研经费千万余元。
 
 
 
