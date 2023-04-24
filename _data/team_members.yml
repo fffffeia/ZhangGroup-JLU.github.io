@@ -59,7 +59,7 @@
   group: 1
   
 - name: 孙琦
-  photo: bio-photo.jpg
+  photo: QiSun.jpg
   info: 博士研究生
   url: sunqi
   group: 1
@@ -95,7 +95,7 @@
   group: 9
   
 - name: 潘晓娟
-  photo: XiaojunPan.jpeg
+  photo: XiaojunPan.jpg
   info: 硕士研究生
   url: panxiaojuan
   group: 9
@@ -117,24 +117,6 @@
   info: 硕士研究生
   url: wudanyang
   group: 9
-      
-- name: 赵子涵
-  photo: bio-photo.jpeg
-  info: 硕士研究生
-  url: zhaozihan
-  group: 9
-
-- name: 王振飞
-  photo: bio-photo.jpeg
-  info: 硕士研究生
-  url: wangzhenfei
-  group: 9
-  
-- name: 柴承星
-  photo: bio-photo.jpg
-  info: 硕士研究生
-  url: chaichengxing
-  group: 9
   
 - name: 陈晓雪
   photo: bio-photo.jpg
@@ -142,7 +124,6 @@
   url: chenxiaoxue
   group: 8
   year: 09/2019-06/2022
-  current: 
   
 - name: 兰志广
   photo: bio-photo.jpg
@@ -150,7 +131,6 @@
   url: 
   group: 8
   year: 09/2019-06/2022
-  current: 
   
 - name: 刘天玚
   photo: bio-photo.jpg
@@ -158,7 +138,6 @@
   url: 
   group: 8
   year: 09/2019-06/2022
-  current: 
   
 - name: 陈怀玉
   photo: bio-photo.jpg
@@ -166,7 +145,6 @@
   url: 
   group: 8
   year: 09/2019-06/2022
-  current: 
   
 - name: 杨光
   photo: bio-photo.jpg
@@ -174,7 +152,6 @@
   url: 
   group: 8
   year: 09/2019-06/2022
-  current: 
   
 - name: 许扬
   photo: bio-photo.jpg
@@ -182,7 +159,6 @@
   url: 
   group: 8
   year: 09/2019-06/2022
-  current: 
   
 - name: 成武
   photo: bio-photo.jpg
@@ -190,7 +166,6 @@
   url: 
   group: 8
   year: 09/2019-06/2022
-  current: 
   
 - name: 赵云鹏
   photo: bio-photo.jpg
@@ -198,7 +173,6 @@
   url: 
   group: 8
   year: 09/2019-06/2022
-  current: 
   
 - name: 马文良
   photo: bio-photo.jpg
@@ -206,7 +180,6 @@
   url: 
   group: 8
   year: 09/2019-12/2022
-  current: 待补充
   
 - name: 陈东辉
   photo: bio-photo.jpg
@@ -214,7 +187,6 @@
   url: 
   group: 8
   year: 09/2018-12/2021
-  current: 中国地震局
 
 - name: 符锐
   photo: bio-photo.jpg
@@ -222,4 +194,3 @@
   url: 
   group: 8
   year: 09/2019-06/2022
-  current: 吉林省水利水电勘察设计研究院
