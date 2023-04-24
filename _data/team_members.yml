@@ -17,7 +17,7 @@
   group: 0
 
 - name: 聂振邦
-  photo: bio-photo.jpg
+  photo:ZhenbangNie.jpg
   info: 博士研究生
   url: niezhenbang 
   group: 1
@@ -53,7 +53,7 @@
   group: 1
   
   - name: 韩佳利
-  photo: JialiHan.jpg
+  photo:JialiHan.jpg
   info: 博士研究生
   url: hanjiali
   group: 1
@@ -71,19 +71,19 @@
   group: 1
   
 - name: 伟明
-  photo: MingWei.jpeg
+  photo:MingWei.jpeg
   info: 博士研究生
   url: weiming
   group: 1
   
 - name: 刘庆
-  photo: bio-photo.jpg
+    photo:QingLiu.jpg
   info: 博士研究生
   url: liuqing
   group: 1
   
 - name: 董文川
-  photo: bio-photo.jpg
+  photo:WenchuanDong.jpg
   info: 硕士研究生
   url: dongwenchuan
   group: 9
@@ -95,13 +95,13 @@
   group: 9
   
 - name: 潘晓娟
-  photo: XiaojunPan.jpeg
+  photo:XiaojunPan.jpeg
   info: 硕士研究生
   url: panxiaojuan
   group: 9
   
 - name: 王尧尧
-  photo: bio-photo.jpeg
+  photo:YaoyaoWang.jpg
   info: 硕士研究生
   url: wangyaoyao
   group: 9
@@ -113,7 +113,7 @@
   group: 9
  
 - name: 吴丹阳
-  photo: bio-photo.jpeg
+  photo:DangyangWu.jpg
   info: 硕士研究生
   url: wudanyang
   group: 9
