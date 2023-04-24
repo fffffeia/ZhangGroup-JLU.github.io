@@ -40,7 +40,7 @@ We work with closely with numerous collaborators, including the [State Lab](http
 <figure class="third">
 <img src="{{ site.url }}{{ site.baseurl }}/images/1.png" style="width: 100px">	<img src="{{ site.url }}{{ site.baseurl }}/images/2.png" style="width: 130px"> <img src="{{ site.url }}{{ site.baseurl }}/images/3.png" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/4.png" style="width: 120px">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/5.webp" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/6.jpg" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/7.jpg" style="width: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/5.png" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/6.jpg" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/7.jpg" style="width: 150px">
 </figure>
 
 
