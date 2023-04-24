@@ -1,7 +1,7 @@
 ---
-title: "BIPL - Recruitment"
+title: "岩体结构与地质灾害实验室 - 招募令"
 layout: textlay
-excerpt: "Openings"
+excerpt: "岩体结构与地质灾害实验室 - 招募令"
 sitemap: false
 permalink: /recruitment/
 ---
