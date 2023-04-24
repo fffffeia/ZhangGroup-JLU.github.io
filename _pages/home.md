@@ -31,14 +31,7 @@ We work with closely with numerous collaborators, including the [State Lab](http
 如果您对我们的研究感兴趣并希望加入团队，请参考[招募令](recruitment) 页面.
 
 ### 课题经费
-团队承担多项国家自然科学基金项目（可以扩展开说明，并进一步发挥）
-
-
-<figure class="third">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo1.png" style="width: 150px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logo2.png" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo3.png" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo4.png" style="width: 150px">
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo5.png" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo6.png" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logo7.jpg" style="width: 200px">
-</figure>
+团队承担多项国家自然科学基金项目
 
 
 
