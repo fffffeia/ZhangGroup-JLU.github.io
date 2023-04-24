@@ -52,7 +52,7 @@
   url:
   group: 1
   
-  - name: 韩佳利
+- name: 韩佳利
   photo: JialiHan.jpg
   info: 博士研究生
   url: hanjiali
@@ -144,7 +144,7 @@
   year: 09/2019-06/2022
   current: 
   
-  - name: 兰志广
+- name: 兰志广
   photo: bio-photo.jpg
   info: 硕士毕业生
   url: 
@@ -152,7 +152,7 @@
   year: 09/2019-06/2022
   current: 
   
-  - name: 刘天玚
+- name: 刘天玚
   photo: bio-photo.jpg
   info: 硕士毕业生
   url: 
@@ -160,7 +160,7 @@
   year: 09/2019-06/2022
   current: 
   
-  - name: 陈怀玉
+- name: 陈怀玉
   photo: bio-photo.jpg
   info: 硕士毕业生
   url: 
@@ -168,7 +168,7 @@
   year: 09/2019-06/2022
   current: 
   
-  - name: 杨光
+- name: 杨光
   photo: bio-photo.jpg
   info: 硕士毕业生
   url: 
@@ -176,7 +176,7 @@
   year: 09/2019-06/2022
   current: 
   
-  - name: 许扬
+- name: 许扬
   photo: bio-photo.jpg
   info: 硕士毕业生
   url: 
@@ -184,7 +184,7 @@
   year: 09/2019-06/2022
   current: 
   
-  - name: 成武
+- name: 成武
   photo: bio-photo.jpg
   info: 硕士毕业生
   url: 
@@ -192,7 +192,7 @@
   year: 09/2019-06/2022
   current: 
   
-  - name: 赵云鹏
+- name: 赵云鹏
   photo: bio-photo.jpg
   info: 硕士毕业生
   url: 
@@ -216,4 +216,10 @@
   year: 09/2018-12/2021
   current: 中国地震局
 
-
+- name: 符锐
+  photo: bio-photo.jpg
+  info: 博士毕业生
+  url: 
+  group: 8
+  year: 09/2019-06/2022
+  current: 吉林省水利水电勘察设计研究院
