@@ -48,7 +48,7 @@ permalink: /publications/
 
 <div>
 
-检索论文全文，请前往 <a class="regtext" href="https://scholar.google.com/citations?user=bRWUiGIAAAAJ&hl=en">Google Scholar</a> 或 <a class="regtext" href="https://www.researchgate.net/profile/Huiyu-Zhou-4">ResearchGate</a>.
+检索论文全文，请前往 <a class="regtext" href="https://www.researchgate.net/profile/Wen-Zhang-120">ResearchGate</a>.
 <br><br><br>
 
 </div>
