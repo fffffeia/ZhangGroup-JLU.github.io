@@ -1,7 +1,7 @@
 ---
-title: "BIPL - Team"
+title: "岩体结构与地质灾害实验室 - 科研成员"
 layout: gridlay
-excerpt: "BIPL: Team members"
+excerpt: "岩体结构与地质灾害实验室 -- 科研成员"
 sitemap: false
 permalink: /team/
 ---
