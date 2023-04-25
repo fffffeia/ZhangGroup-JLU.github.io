@@ -52,12 +52,6 @@
   url:
   group: 1
   
-- name: 韩佳利
-  photo: JialiHan.jpg
-  info: 博士研究生
-  url: hanjiali
-  group: 1
-  
 - name: 孙琦
   photo: QiSun.jpg
   info: 博士研究生
@@ -68,6 +62,12 @@
   photo: XiaohanZhao.jpeg
   info: 博士研究生
   url: zhaoxiaohan
+  group: 1
+  
+- name: 韩佳利
+  photo: JialiHan.jpg
+  info: 博士研究生
+  url: hanjiali
   group: 1
   
 - name: 伟明
