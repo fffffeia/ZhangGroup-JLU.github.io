@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# 发表论文
+# 科研成果
 
 ---
 
