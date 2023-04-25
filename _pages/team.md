@@ -129,13 +129,4 @@ permalink: /team/
 ---
 
 ## 技术支持
-请联系我们的实验室网站管理员Dr. Tengyue Li(litengyue@jlu.edu.cn).
-
-
-
-
-
-
-
-
-
+请联系我们的实验室网站管理员Dr. Tengyue Li(Email: litengyue@jlu.edu.cn).
