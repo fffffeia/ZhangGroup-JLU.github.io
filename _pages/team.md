@@ -112,7 +112,7 @@ permalink: /team/
 
 ---
 
-## Alumni
+## 毕业生校友
 
 {% for member in site.data.team_members %}
 {% if member.group == 8 %}
@@ -129,7 +129,7 @@ permalink: /team/
 ---
 
 ## 技术支持
-请联系我们的实验室网站管理员， <a href="mailto:litengyue@jlu.edu.cn">Dr. Tengyue Li</a>.
+请联系我们的实验室网站管理员， <a href="mailto:litengyue@jlu.edu.cn">Dr. Tengyue Li litengyue0532@gmail.com</a>.
 
 
 
