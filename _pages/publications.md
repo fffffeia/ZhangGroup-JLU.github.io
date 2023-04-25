@@ -1,5 +1,5 @@
 ---
-title: "岩体结构与地质灾害实验室 - 发表论文"
+title: "岩体结构与地质灾害实验室 - 科研成果"
 layout: gridlay
 excerpt: "岩体结构与地质灾害实验室 at 吉林大学（朝阳校区）."
 sitemap: false
