@@ -11,7 +11,8 @@ permalink: /publications/
 
 ---
 
-迄今，共发表60余篇SCI与EI检索论文，具体如下：\
+迄今，共发表60余篇SCI与EI检索论文，具体如下：
+
 Wen Zhang*, Junqi Chen, Junhua Ma, Chen Cao, Han Yin, Jia Wang, Bo Han. Evolution of sediment after a decade of the Wenchuan earthquake: a case study in a protected debris flow catchment in Wenchuan County, China. Acta Geotechnica, 2023: 1-22.
 
 Wen Zhang*, Xiaohan Zhao, Xiaojuan Pan, Ming Wei, Jianhua Yan, Jianping Chen. Characterization of high and steep slopes and 3D rockfall statistical kinematic analysis for Kangyuqu area, China. Engineering Geology, 2022: 106807.
@@ -20,7 +21,7 @@ Wen Zhang*, Jia Wang, Jianping Chen, Mohamad Reza Soltanian, Zhenxue Dai, Giday 
 
 Jia Wang, Wen Zhang*, Chun Tan, Zhenbang Nie, Wenliang Ma, Donghui Chen, Qi Sun. Multi-dimensional size effects and representative elements for non-persistent fractured rock masses: A perspective of geometric parameter distribution. Journal of Rock Mechanics and Geotechnical Engineering, 2022.
 
-Donghui Chen, Huie Chen, Wen Zhang*, Junqing Lou, Bo Shan. An Analytical Solution of the Equivalent Elastic Modulus Considering the Confining Stress and Its Variables Sensitivity Analysis for Fractured Rock Masses. Journal of Rock Mechanics and Geotechnical Engineering, 2021(accepted).
+Donghui Chen, Huie Chen, Wen Zhang*, Junqing Lou, Bo Shan. An Analytical Solution of the Equivalent Elastic Modulus Considering the Confining Stress and Its Variables Sensitivity Analysis for Fractured Rock Masses. Journal of Rock Mechanics and Geotechnical Engineering, 2021.
 
 Chen Cao, Wen Zhang*, Jianping Chen, Shengyuan Song, Jiewei Zhan. Quantitative estimation of debris flow source materials by integrating multi-source data: A case study. Engineering Geology, 2021, 291 : 106222.
 
@@ -108,7 +109,7 @@ Wen Zhang*, HuiZhong Li, Jianping Chen, Chen Zhang, Liming Xu, Weifeng Sang. Com
 
 ---
 
-专利成果与技术
+专利成果与技术：
 
 张文, 陈剑平, 牛岑岑, 徐佩华, 占洁伟. 一种收集滑坡释光测试土样的装置. 2015.12.25, 中国, 201510990113.5 （已授权）
 
