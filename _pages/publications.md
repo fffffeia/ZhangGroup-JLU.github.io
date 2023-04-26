@@ -11,7 +11,7 @@ permalink: /publications/
 
 ---
 
-迄今，共发表60余篇SCI与EI检索论文, 具体如下：
+迄今，共发表60余篇SCI与EI检索论文, 具体如下：\
 Wen Zhang, Junqi Chen, Junhua Ma, Chen Cao, Han Yin, Jia Wang, Bo Han. Evolution of sediment after a decade of the Wenchuan earthquake: a case study in a protected debris flow catchment in Wenchuan County, China. Acta Geotechnica, 2023: 1-22.\
 
 Wen Zhang, Xiaohan Zhao, Xiaojuan Pan, Ming Wei, Jianhua Yan, Jianping Chen. Characterization of high and steep slopes and 3D rockfall statistical kinematic analysis for Kangyuqu area, China. Engineering Geology, 2022: 106807.\
