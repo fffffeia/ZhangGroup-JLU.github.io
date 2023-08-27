@@ -123,6 +123,18 @@
   info: 硕士研究生
   url: wudanyang
   group: 9
+
+- name: 王振飞
+  photo: ZhenfeiWang.png
+  info: 硕士研究生
+  url: ZhenfeiWang
+  group: 9
+
+- name: 柴承星
+  photo: ChengxingChai.png
+  info: 硕士研究生
+  url: ChengxingChai
+  group: 9
   
 - name: 陈晓雪
   photo: bio-photo.jpg
