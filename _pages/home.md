@@ -33,16 +33,6 @@ We work with closely with numerous collaborators, including the [State Lab](http
 ### 课题经费
 团队承担多项国家自然科学基金项目，累计科研经费千万余元。
 
-### 合作单位
-团队与国内外诸多知名院校建立项目与学术合作，包括同济大学，中国地质大学（武汉），西南交通大学，成都理工大学，中国海洋大学，美国加州大学伯克利分校，英国莱斯特大学和英国伦敦大学学院等.
-
-
-<figure class="third">
-<img src="{{ site.url }}{{ site.baseurl }}/images/1.png" style="width: 100px">	<img src="{{ site.url }}{{ site.baseurl }}/images/2.png" style="width: 130px"> <img src="{{ site.url }}{{ site.baseurl }}/images/3.png" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/7.jpg" style="width: 120px">
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/5.png" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/6.jpg" style="width: 150px"> <img src="{{ site.url }}{{ site.baseurl }}/images/4.png" style="width: 150px">
-</figure>
-
 
 
 
